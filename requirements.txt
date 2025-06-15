@@ -1,0 +1,15 @@
+# Core scientific computing
+numpy>=1.19.0
+scipy>=1.5.0
+
+# EDF file reading
+pyEDFlib>=0.1.30
+
+# Visualization
+matplotlib>=3.3.0
+
+# Unit Testing
+pytest>=6.2.0
+
+# Optional
+numba>=0.51.0 
