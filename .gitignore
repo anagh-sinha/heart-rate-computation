@@ -1,0 +1,9 @@
+temp/
+Lib/
+PulseHeartEnv/
+*.pdf
+*.zip
+*.log   
+*.pyc
+__pycache__
+
